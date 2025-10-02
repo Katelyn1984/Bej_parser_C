@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libbej.a CMakeFiles/bej.dir/src/bej_reader.c.obj CMakeFiles/bej.dir/src/bej_json.c.obj CMakeFiles/bej.dir/src/bej_dict.c.obj CMakeFiles/bej.dir/src/bej_decode.c.obj CMakeFiles/bej.dir/src/main.c.obj
+C:\MinGW\bin\ranlib.exe libbej.a

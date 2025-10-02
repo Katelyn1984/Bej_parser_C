@@ -1,0 +1,24 @@
+Start testing: Oct 02 10:00 ????????? (????)
+----------------------------------------------------------
+1/1 Testing: bej_min_c_tests
+1/1 Test: bej_min_c_tests
+Command: "C:/Bej_parser/build/bej_tests_c.exe"
+Directory: C:/Bej_parser/build
+"bej_min_c_tests" start time: Oct 02 10:00 ????????? (????)
+Output:
+----------------------------------------------------------
+[RUN ] test_nnint_basic
+[ OK ] test_nnint_basic
+[RUN ] test_dict_load_lookup
+[ OK ] test_dict_load_lookup
+
+All tests passed.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"bej_min_c_tests" end time: Oct 02 10:00 ????????? (????)
+"bej_min_c_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 02 10:00 ????????? (????)

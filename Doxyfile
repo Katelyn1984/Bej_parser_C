@@ -1,0 +1,26 @@
+# Minimal Doxygen config for the BEJ project
+
+PROJECT_NAME           = "BEJ Minimal Decoder"
+PROJECT_BRIEF          = "Subset BEJ decoder tied to Redfish schema dictionaries (DSP0218)"
+OUTPUT_DIRECTORY       = docs
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+OPTIMIZE_OUTPUT_FOR_C  = YES
+QUIET                  = YES
+JAVADOC_AUTOBRIEF      = YES
+WARN_IF_UNDOCUMENTED   = NO
+FULL_PATH_NAMES        = NO
+
+# Входы
+INPUT                  = src
+RECURSIVE              = YES
+FILE_PATTERNS          = *.c \
+                         *.h
+
+# Макет
+TAB_SIZE               = 4
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = NO
+STRIP_CODE_COMMENTS    = NO
+
+

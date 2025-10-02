@@ -1,0 +1,10 @@
+rmdir /s /q build 2>nul
+cmake -S . -B build -G "MinGW Makefiles" -DCMAKE_C_COMPILER=gcc ^
+      -DBUILD_TESTS=OFF -DBUILD_MIN_C_TESTS=ON
+cmake --build build -j
+ctest --test-dir build --output-on-failure
+
+build\bej_tool.exe -s Memory_v1.bin -a annotation.bin -b example.bin -o out.json
+
+
+

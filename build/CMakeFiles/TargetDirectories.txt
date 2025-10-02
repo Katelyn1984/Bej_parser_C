@@ -1,0 +1,12 @@
+C:/Bej_parser/build/CMakeFiles/bej.dir
+C:/Bej_parser/build/CMakeFiles/bej_tool.dir
+C:/Bej_parser/build/CMakeFiles/run.dir
+C:/Bej_parser/build/CMakeFiles/doc.dir
+C:/Bej_parser/build/CMakeFiles/bej_tests_c.dir
+C:/Bej_parser/build/CMakeFiles/test.dir
+C:/Bej_parser/build/CMakeFiles/edit_cache.dir
+C:/Bej_parser/build/CMakeFiles/rebuild_cache.dir
+C:/Bej_parser/build/CMakeFiles/list_install_components.dir
+C:/Bej_parser/build/CMakeFiles/install.dir
+C:/Bej_parser/build/CMakeFiles/install/local.dir
+C:/Bej_parser/build/CMakeFiles/install/strip.dir
